@@ -63,9 +63,9 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Wachemo UIniversity Dormitory Managment System] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This project is a website that simplifies the work of dormitories allowing authorized users to manage it whwther they are in the campus domain or not.
 
 **wachemo dormitory system** is a...
 
