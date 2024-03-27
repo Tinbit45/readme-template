@@ -30,7 +30,7 @@ For more information on the importance of a professional README for your reposit
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="C:\Users\hp\Desktop\AUR.jpg" alt="logo" width="140"  height="auto" />
+  <img src="C:\Desktop\AUR.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>AURORA GIT</b></h3>
